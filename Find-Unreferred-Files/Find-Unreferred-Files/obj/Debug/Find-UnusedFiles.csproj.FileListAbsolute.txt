@@ -1,0 +1,10 @@
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\bin\Debug\Find-Unreferred-Files.exe.config
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\bin\Debug\Find-Unreferred-Files.exe
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\bin\Debug\Find-Unreferred-Files.pdb
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\obj\Debug\Find_Unreferred_Files.Properties.Resources.resources
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\obj\Debug\Find-UnusedFiles.csproj.GenerateResource.cache
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\obj\Debug\Find-UnusedFiles.csproj.CoreCompileInputs.cache
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\obj\Debug\Find-Unreferred-Files.exe
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\obj\Debug\Find-Unreferred-Files.pdb
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\obj\Debug\POC.TOOLS.Mainfrm.resources
+E:\Development\POC-Tools\Find-Unreferred-Files\Find-Unreferred-Files\obj\Debug\Find-UnusedFiles.csprojAssemblyReference.cache

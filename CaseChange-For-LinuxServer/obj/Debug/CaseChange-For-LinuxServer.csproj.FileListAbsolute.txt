@@ -1,0 +1,7 @@
+E:\Development\POC-Tools\CaseChange-For-LinuxServer\bin\Debug\CaseChange-For-LinuxServer.exe.config
+E:\Development\POC-Tools\CaseChange-For-LinuxServer\bin\Debug\CaseChange-For-LinuxServer.exe
+E:\Development\POC-Tools\CaseChange-For-LinuxServer\bin\Debug\CaseChange-For-LinuxServer.pdb
+E:\Development\POC-Tools\CaseChange-For-LinuxServer\obj\Debug\CaseChange-For-LinuxServer.csprojAssemblyReference.cache
+E:\Development\POC-Tools\CaseChange-For-LinuxServer\obj\Debug\CaseChange-For-LinuxServer.csproj.CoreCompileInputs.cache
+E:\Development\POC-Tools\CaseChange-For-LinuxServer\obj\Debug\CaseChange-For-LinuxServer.exe
+E:\Development\POC-Tools\CaseChange-For-LinuxServer\obj\Debug\CaseChange-For-LinuxServer.pdb
